@@ -23,3 +23,8 @@ The dataset is already cleaned and does not require any missing value handling, 
 
 # RESULTS
 The decision tree was able to achieve high accuracy on the test set, demonstrating its ability to generalize well on new data. The visualization provides transparency into how the model makes predictions, which is crucial in sensitive applications like medical diagnosis.
+
+# OUTPUT
+<img width="1133" height="539" alt="Image" src="https://github.com/user-attachments/assets/c31adebb-bff2-4205-b5d2-86c9718c1332" />
+
+<img width="622" height="406" alt="Image" src="https://github.com/user-attachments/assets/60cac7e9-8518-401c-a430-5ac4c4492e68" />
